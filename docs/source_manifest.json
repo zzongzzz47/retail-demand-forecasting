@@ -1,0 +1,26 @@
+[
+  {
+    "original_name": "modeling2.ipynb",
+    "repository_path": "code/01_center_a_time_series.ipynb",
+    "original_sha256": "f4e6343ce13e843adb45567e4030bbea647912279a2ddf20a58b33b5444d2bd1",
+    "changes": "Renamed file; cleared saved outputs and execution metadata; all cell sources unchanged."
+  },
+  {
+    "original_name": "modeling3.ipynb",
+    "repository_path": "code/02_center_b_time_series.ipynb",
+    "original_sha256": "77ee261e45cdec0b61162e8234e7c61e0ba30c1282215392e712ee8ef2d818e4",
+    "changes": "Renamed file; cleared saved outputs and execution metadata; all cell sources unchanged."
+  },
+  {
+    "original_name": "A_물류센터_신선식품_매출.ipynb",
+    "repository_path": "code/03_fresh_food_exploration.ipynb",
+    "original_sha256": "a0ba3af3c42ae254a7468316aa9dd1c9645bf5af750da2b9fc1621c0162769a2",
+    "changes": "Renamed file; cleared saved outputs and execution metadata; all cell sources unchanged."
+  },
+  {
+    "original_name": "유통데이터 활용 경진대회 수요예측부문 분석보고서_Nexus .pdf",
+    "repository_path": "reports/nexus_demand_forecasting_report.pdf",
+    "original_sha256": "33950c6ac62e14349ae00255b430602a01a6d37bfacfa30d573851af3dfc215a",
+    "changes": "Filename only; original PDF bytes preserved."
+  }
+]

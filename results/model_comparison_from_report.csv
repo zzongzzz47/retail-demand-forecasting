@@ -1,0 +1,17 @@
+center,category,model,rmse,selected
+A,생수·음료·건강,Seasonal Naive,7205.0,False
+A,생수·음료·건강,SARIMA,4607.0,False
+A,생수·음료·건강,SARIMAX,5604.0,False
+A,생수·음료·건강,Prophet,2607.0,True
+A,신선식품,Seasonal Naive,966.14,False
+A,신선식품,SARIMA,492.11,True
+A,신선식품,SARIMAX,709.82,False
+A,신선식품,Prophet,958.7,False
+B,탄산음료,Seasonal Naive,3544.5,False
+B,탄산음료,SARIMA,3027.0,False
+B,탄산음료,SARIMAX,4257.0,False
+B,탄산음료,Prophet,2607.0,True
+B,봉지라면,Naive,379.57,False
+B,봉지라면,Seasonal Naive,379.47,False
+B,봉지라면,ARIMA,336.68,False
+B,봉지라면,Prophet,291.37,True

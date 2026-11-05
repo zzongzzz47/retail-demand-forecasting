@@ -1,0 +1,10 @@
+# 제공 노트북의 import 기준; 원 실행 버전은 미기록
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+lightgbm
+openpyxl
+jupyterlab

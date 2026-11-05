@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+code/수요예측부문 데이터 제공/
+code/물류센터데이터*/
+code/외생변수/
+data/
+*.xlsx
+*.parquet
+*.pkl
+*.joblib
