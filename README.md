@@ -4,7 +4,7 @@
 
 물류센터에서 얼마나 팔릴지 예측한 뒤, 그만큼을 바로 매입해도 될까? 재고와 입고 대기 물량, 상품의 수요 변동까지 고려해 매입량을 정하는 과정을 분석했습니다.
 
-**[분석 보고서](reports/nexus_demand_forecasting_report.pdf) · [사용한 코드](code/) · [결과표](results/) · [데이터 준비](docs/DATA.md)**
+**[분석 보고서](reports/nexus_demand_forecasting_report.pdf) · [사용한 코드](code/) · [결과표](results/) · [데이터 준비](docs/DATA.md) · [학습 노트](notes/)**
 
 ## 어떤 문제를 다뤘나
 
@@ -46,6 +46,7 @@
 | [code/](code/) | 제공된 실험 노트북 3개, 실행 안내와 의존 패키지 |
 | [reports/](reports/) | Nexus 팀 제출 보고서 원본 PDF |
 | [results/](results/) | 보고서의 검증 RMSE와 2025년 1~3월 예측 판매수량 |
+| [notes/](notes/) | 티스토리 수요예측·시계열 학습 글 14편의 주제별 안내와 원문 링크 |
 | [docs/DATA.md](docs/DATA.md) | 필요한 입력 자료와 실행 전 확인 사항 |
 | [docs/source_manifest.json](docs/source_manifest.json) | 원본 파일과 정리본 대응 관계 |
 
